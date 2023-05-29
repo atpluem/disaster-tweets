@@ -4,6 +4,8 @@ import pandas as pd
 import joblib
 
 import re
+import nltk
+nltk.download('stopwords')
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 stop = set(stopwords.words("english"))
