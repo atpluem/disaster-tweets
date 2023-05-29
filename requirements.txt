@@ -5,4 +5,4 @@ pandas==1.4.4
 spacy==3.5.3
 streamlit==1.22.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
-"pytest < 4.6" pytest-cov==2.12.1
+pytest < 4.6 pytest-cov==2.12.1
